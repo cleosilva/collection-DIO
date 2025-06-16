@@ -7,6 +7,8 @@ public class Main {
         agenda.adicionarContato("Preta Maria", "11988554122");
         agenda.adicionarContato("Samuka", "12987744110");
         agenda.adicionarContato("Preta", "11977552200");
+        agenda.adicionarContato("Preta", "11977552200");
+
 
         agenda.exibirContatos();
 
